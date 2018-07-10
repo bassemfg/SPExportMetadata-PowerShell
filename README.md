@@ -1,1 +1,2 @@
 # SPExportMetadata-PowerShell
+Script gets all Site Collections, sites, sub sites, document libraries and files then retrieves all fields/properties for each file into a set of CSV files. The other tool I have uploaded here, CSV-Metadata-Cleanup https://github.com/bassemfg/SP-Metadata-CSV-cleanup should then be used to clean up the resulting CSV files and produce a signle file that has all the metadata of all the files in the sharepoint document libraries under the specified site collection.
